@@ -8,16 +8,6 @@
 
   <h3 align="center">Change My Mind</h3>
 
-  <p align="center">
-    A debate app built with React Native / Expo. Using Firebase as backend.
-    <br />
-    <br />
-    <a href="https://twitter.com/anilsenay">Contact me</a>
-    ·
-    <a href="https://github.com/anilsenay/change-my-mind/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/anilsenay/change-my-mind/issues">Request Feature</a>
-  </p>
 </p>
 
 
@@ -157,20 +147,4 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the GPL License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-[@anilsenay](https://twitter.com/anilsenay)
-
-Project Link: [https://github.com/anilsenay/change-my-mind](https://github.com/anilsenay/change-my-mind)
 
